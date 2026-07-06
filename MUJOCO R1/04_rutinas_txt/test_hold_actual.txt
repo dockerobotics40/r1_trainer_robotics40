@@ -1,0 +1,13 @@
+{
+  "nombre_rutina": "test_hold_actual",
+  "fecha_creacion": "2026-07-02",
+  "descripcion": "Rutina minima de prueba para verificar que el ejecutor R1 puede cargar un txt y sostener una postura sin contorsionar el robot.",
+  "numero_pasos": 1,
+  "pasos": [
+    {
+      "nombre": "Paso 1 - sostener postura actual de torso brazos y cabeza",
+      "posiciones": {},
+      "duracion": 2.0
+    }
+  ]
+}

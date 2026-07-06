@@ -1,0 +1,22 @@
+{
+  "robot": "Unitree R1",
+  "active_motor_count": 26,
+  "criterio": "LowCmd y LowState se interpretan por Actuator_index. No usar Joint_index directamente para comandos.",
+  "pose_joints": {
+    "12": "waist_roll_joint",
+    "13": "waist_yaw_joint",
+    "14": "left_shoulder_pitch_joint",
+    "15": "left_shoulder_roll_joint",
+    "16": "left_shoulder_yaw_joint",
+    "17": "left_elbow_joint",
+    "18": "left_wrist_roll_joint",
+    "19": "right_shoulder_pitch_joint",
+    "20": "right_shoulder_roll_joint",
+    "21": "right_shoulder_yaw_joint",
+    "22": "right_elbow_joint",
+    "23": "right_wrist_roll_joint",
+    "24": "head_pitch_joint",
+    "25": "head_yaw_joint"
+  },
+  "nota": "Para rutinas de poses no usar piernas inicialmente. Las piernas corresponden a índices 0-11."
+}

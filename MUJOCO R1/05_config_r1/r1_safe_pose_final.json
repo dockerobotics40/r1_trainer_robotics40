@@ -1,0 +1,20 @@
+{
+  "nombre": "r1_safe_pose_final",
+  "descripcion": "Pose segura estándar para rutinas R1. Todas las rutinas deben iniciar y terminar en esta configuración.",
+  "posiciones": {
+    "12": 0.0,
+    "13": 0.0,
+    "14": 0.0,
+    "15": 0.151786,
+    "16": 0.0,
+    "17": 1.062987,
+    "18": 0.0,
+    "19": 0.0,
+    "20": -0.151872,
+    "21": 0.0,
+    "22": 1.062987,
+    "23": 0.0,
+    "24": 0.0,
+    "25": 0.0
+  }
+}
