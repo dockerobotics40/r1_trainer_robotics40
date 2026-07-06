@@ -1,0 +1,3 @@
+[console_scripts]
+camera_viewer = r1_camera_viewer.camera_viewer_node:main
+
